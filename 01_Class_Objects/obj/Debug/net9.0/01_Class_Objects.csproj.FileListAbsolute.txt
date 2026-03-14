@@ -1,0 +1,14 @@
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\bin\Debug\net9.0\01_Class_Objects.exe
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\bin\Debug\net9.0\01_Class_Objects.deps.json
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\bin\Debug\net9.0\01_Class_Objects.runtimeconfig.json
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\bin\Debug\net9.0\01_Class_Objects.dll
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\bin\Debug\net9.0\01_Class_Objects.pdb
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.AssemblyInfoInputs.cache
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.AssemblyInfo.cs
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.dll
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\refint\01_Class_Objects.dll
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.pdb
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\01_Class_Objects.genruntimeconfig.cache
+C:\Users\Bienvenido\Desktop\POO_C#\01_Class_Objects\obj\Debug\net9.0\ref\01_Class_Objects.dll
