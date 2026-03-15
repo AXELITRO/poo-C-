@@ -43,7 +43,7 @@ cuenta._saldo = 1000; // ❌ Error de compilación
 
 ## 3. protected - Acceso para la jerarquía (clases derivadas)
 
-Accesible dentro de la clase y en todas sus clases derivadas, sin importar el ensamblado.  
+Accesible dentro de la clase y en todas sus clases derivadas, sin importar el ensamblado (puede ser desde un proyecto externo).  
 
 ```c#
 public class Animal
