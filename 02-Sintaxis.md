@@ -72,7 +72,6 @@ Output:
 > Para el caso de los **backslash**, usamos soble diagonal \\\ o mejor aún, con el recurso de cadenas literales @, simplemente la colocamos una sola vez \.
 
 
-# AGREGAR MODIFICADORES DE ACCESO (PRIVATE, PUBLIC, PROTECTED, INTERNAL)
 
 
 
